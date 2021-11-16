@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="lt">
+    <head>
+        <meta charset="UTF-8">
+        <title>Prototipas</title>
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <li><a href="#">link</a></li>
+                <li><a href="#">link</a></li>
+                <li><a href="#">link</a></li>
+                <p>Susisiekite 860000000</p>
+                <h1>Prekinis zenklas</h1>
+            </header>
+            <nav>
+                <div class="navigation">
+                    <ul>
+                        <li><a href="#">Menu1</a></li>
+                        <li><a href="#">Menu2</a></li>
+                        <li><a href="#">Menu3</a></li>
+                        <li><a href="#">Menu4</a></li>
+                        <li><a href="#">Menu5</a></li>
+                    </ul>
+                    <img src="xx" alt="nuotrauka">
+                    <li><a href="#">katalogo link </a></li>
+                    <li><a href="#">link 1</a></li>
+                    <li><a href="#">link 2</a></li>
+                    <li><a href="#">link 3</a></li>
+                </nav>
+            </div>
+            </div>
+        <main>
+            <div class="article">
+            <h1>Naujienos</h1>
+            <article>
+                <h2>naujienos pavadinimas</h2>
+                    <p>naujienos tekstas</p>
+                    <time datetime="2000-01-01">2001-01-01</time>
+                    <h4>papildoma info</h4>
+                    <li><a href="#">Skaityti daugiau link</a></li>
+                <h2>kitos naujienos pavadinimas</h2>
+                    <p>naujienos tekstas</p>
+                    <time datetime="2000-01-01">2001-01-01</time>
+                    <h4>papildoma info</h4>
+                    <li><a href="#">Skaityti daugiau link</a></li>
+            </article>
+            <aside>
+                <h2>1 sezonas</h2>
+                    <ul>
+                         <li><a href="#">kazkoks link</a></li>
+                         <li><a href="#">kazkoks link</a></li>
+                         <li><a href="#">kazkoks link</a></li>
+                         <li><a href="#">kazkoks link</a></li>
+                    </ul>
+                <h2>2 sezonas</h2>
+                    <ul>
+                        <li><a href="#">kazkoks link</a></li>
+                        <li><a href="#">kazkoks link</a></li>
+                        <li><a href="#">kazkoks link</a></li>
+                        <li><a href="#">kazkoks link</a></li>
+                    </ul>
+                </aside>
+            </div>
+        </main>
+        <footer>
+            <h4>Imones rekvizitai</h4>
+                <p>rekvizitai</p>
+            <h4>Informacija klientams</h4>
+                <p>informacija</p>
+                    <ol>
+                        <li><a href="#">nuoroda</a></li>
+                        <li><a href="#">nuoroda</a></li>
+                        <li><a href="#">nuoroda</a></li>
+                    </ol>
+        <fieldset>
+            <label>Siuskite uzklausa</label>
+            <textarea placeholder="Zinutes tekstas" ></textarea>
+            <input type="text" placeholder="Jusu vardas">
+            <button type="submit"> Siųsti </button>
+        </fieldset>
+        </footer>    
+    </body>
+</html>
